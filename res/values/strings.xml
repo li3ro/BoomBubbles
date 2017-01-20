@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-8879010042696561/3299666337</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-8879010042696561/4309244331</string>
+    <string name="app_name">Boom Bubbles</string>
+    <string name="game_over">Game Over</string>
+    <string name="your_score">Score: </string>
+    <string name="new_high_score">☆ New HighScore ☆</string>
+    <string name="top_score">Top Score: </string>
+    <string name="ready">Ready?</string>
+    <string name="pause">Pause</string>
+</resources>
